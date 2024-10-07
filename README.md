@@ -1,7 +1,7 @@
 # WEBISITE-VULNERABILTY-TEST-
 THIS CAN TEST NEARLY 40 -50 VULNERABILITY PRESENT IN THE WEBSITE WHICH CAN USED TO HARM  THE WEBSITE 
 
-HOW TO USE IT 
+#HOW TO USE IT 
 download or copy past the code 
 then install all the dependency if required
 then run 
